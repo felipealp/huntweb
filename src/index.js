@@ -1,6 +1,8 @@
+//Importa a Biblioteca para o funcionamento do JSX
 import React from 'react';
+//Importa o renderizador do componente
 import ReactDOM from 'react-dom';
-import './index.css';
+//Importa o App.js
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
